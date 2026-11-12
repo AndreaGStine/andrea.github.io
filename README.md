@@ -45,8 +45,7 @@ In my PhD I developed a compositional framework for open systems in classical me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In fall 2026, I completed the CFA Institute's Chartered Financial Analyst Program Level 1. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In fall 2024, I won first and second place in two different trading competitions sponsored by Benzinga and TradeZero. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In summer 2024, I completed a quantitative trading internship at PEAK6 Capital Management.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In summer 2024, I completed a quantitative trading internship at PEAK6 Capital Management. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In summer 2023, I completed a quantitative trading internship at Belvedere Trading.
 
 **For a full list of my academic experience, please contact me for a copy of my CV.**
