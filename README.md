@@ -12,7 +12,7 @@ Ecole Polytechnique \
 1 rue Honoré d'Estienne d'Orves \
 Bâtiment Alan Turing \
 91128 Palaiseau \
-France \
+France 
 
 ## About
 Postdoctoral Researcher at Institut Polytechnique de Paris under the [Chaire Architecture des Systemes Complexes](https://www.ip-paris.fr/recherche/departements-laboratoires-centres-et-projets-de-recherche/chaires-denseignement-et-de-recherche/chaire-architecture-des-systemes-complexes). 
