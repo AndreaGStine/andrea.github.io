@@ -2,7 +2,9 @@
 
 ## Contact information
 abejestine@lix.polytechnique.fr
+
 Website: [http://www.andreagstine.com]
+
 Github: [https://github.com/AndreaGStine]
 
 **Office**
