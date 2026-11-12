@@ -1,6 +1,6 @@
 # Andrea Abeje-Stine
 
-## Contact information
+## Where to Find Me
 [abejestine@lix.polytechnique.fr](mailto:abejestine@lix.polytechnique.fr) \
 Website: [http://www.andreagstine.com](http://www.andreagstine.com) \
 Github: [https://github.com/AndreaGStine](https://github.com/AndreaGAStine) \
