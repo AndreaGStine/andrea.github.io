@@ -7,7 +7,7 @@ Website: [http://www.andreagstine.com]
 
 Github: [https://github.com/AndreaGStine]
 
-#### Office:
+**Office:**
 
 Room 2011, LIX - UMR 7161
 Ecole Polytechnique
@@ -33,13 +33,13 @@ I study compositionality of high-complexity systems to derive interpretable algo
 
 In my PhD I developed a compositional framework for open systems in classical mechanical physics, in the vein of prior work with John Baez. My doctoral advisor was [David Weisbart](https://sites.google.com/view/weisbart-ucr-homepage/home). There is significant opportunity for further study on this project, for example in developing a broader framework for the automated determination of PDEs describing the motion of physical systems or in generalizing the framework to capture continuum mechanics.
 
-#### I have two journal publications in submission or accepted:
+**I have two journal publications in submission or accepted:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2602.20125) Abeje-Stine, A., Weisbart, D.: A Compositional Framework for Open Kinematic Systems Involving Constraints and Feedback.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv](https://doi.org/10.48550/arXiv.2405.02502) Pierce, T., Rajkumar, R., Abeje-Stine, A., Weisbart, D., Yassine, A.M.: Brownian Motion in a Vector Space over a Local Field is a Scaling Limit. Expositiones Mathematicae, 2024.  
 
-#### I have four papers in preparation; please contact me if you are curious to see a draft of / talk regarding these works:
+**I have four papers in preparation; please contact me if you are curious to see a draft of / talk regarding these works:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abeje-Stine, A., Bakirtzis, G., Dubut, J.: Composition of Joint Markov Decision Processes for Dependent Multi-Agent Reinforcement Learning 
 
