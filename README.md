@@ -26,17 +26,17 @@ Postdoctoral Researcher at Institut Polytechnique de Paris under the [Chaire Arc
 
 ## Research
 
-I study compositionality of high-complexity systems to derive interpretable algorithms for automated reasoning. My current focus is identifying compositionality in multi-agent reinforcement learning to derive efficient collaborative policies from components. I hope the mathematics grounding my approach will make precise the notion of **functional composition** in reinforcement learning. My postdoctoral supervisors are [Jérémy Dubut](https://jeremydubut.com/) and [Georgios Bakirtzis](https://bakirtzis.net/).
+I study compositionality of high-complexity systems to derive interpretable algorithms for automated reasoning. My current focus is identifying compositionality in multi-agent reinforcement learning to derive efficient collaborative policies from components. I hope the mathematics grounding my approach will make precise the notion of *functional composition* in reinforcement learning. My postdoctoral supervisors are [Jérémy Dubut](https://jeremydubut.com/) and [Georgios Bakirtzis](https://bakirtzis.net/).
 
 In my PhD I developed a compositional framework for open systems in classical mechanical physics, in the vein of prior work with John Baez. My doctoral advisor was [David Weisbart](https://sites.google.com/view/weisbart-ucr-homepage/home). There is significant opportunity for further study on this project, for example in developing a broader framework for the automated determination of PDEs describing the motion of physical systems or in generalizing the framework to capture continuum mechanics.
 
-I have two journal publications in submission or accepted:
+#### I have two journal publications in submission or accepted:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2602.20125) Abeje-Stine, A., Weisbart, D.: A Compositional Framework for Open Kinematic Systems Involving Constraints and Feedback.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv](https://doi.org/10.48550/arXiv.2405.02502) Pierce, T., Rajkumar, R., Abeje-Stine, A., Weisbart, D., Yassine, A.M.: Brownian Motion in a Vector Space over a Local Field is a Scaling Limit. Expositiones Mathematicae, 2024.  
 
-I have four papers in preparation; please contact me if you are curious to see a draft of / talk regarding these works:
+#### I have four papers in preparation; please contact me if you are curious to see a draft of / talk regarding these works:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abeje-Stine, A., Bakirtzis, G., Dubut, J.: Composition of Joint Markov Decision Processes for Dependent Multi-Agent Reinforcement Learning 
 
