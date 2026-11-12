@@ -7,7 +7,7 @@ Website: [http://www.andreagstine.com]
 
 Github: [https://github.com/AndreaGStine]
 
-**Office**
+#### Office:
 
 Room 2011, LIX - UMR 7161
 Ecole Polytechnique
