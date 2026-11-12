@@ -1,7 +1,7 @@
 # Andrea Abeje-Stine
 
 ## Contact information
-abejestine@lix.polytechnique.fr
+[abejestine@lix.polytechnique.fr](abejestine@lix.polytechnique.fr)
 
 Website: [http://www.andreagstine.com](http://www.andreagstine.com)
 
