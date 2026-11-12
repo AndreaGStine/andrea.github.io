@@ -3,7 +3,9 @@
 ## Contact information
 [abejestine@lix.polytechnique.fr](mailto:abejestine@lix.polytechnique.fr) \
 Website: [http://www.andreagstine.com](http://www.andreagstine.com) \
-Github: [https://github.com/AndreaGStine](https://github.com/AndreaGStine)
+Github: [https://github.com/AndreaGStine](https://github.com/AndreaGAStine) \
+Google Scholar: [https://scholar.google.com/citations?user=ToYbbK0AAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=ToYbbK0AAAAJ&hl=en&oi=ao) \
+LinkedIn: [https://www.linkedin.com/in/andrea-g-a-stine/](https://www.linkedin.com/in/andrea-g-a-stine/)
 
 **Office:**
 
