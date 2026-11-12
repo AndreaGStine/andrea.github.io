@@ -3,9 +3,9 @@
 ## Contact information
 abejestine@lix.polytechnique.fr
 
-Website: [http://www.andreagstine.com]
+Website: [http://www.andreagstine.com](http://www.andreagstine.com)
 
-Github: [https://github.com/AndreaGStine]
+Github: [https://github.com/AndreaGStine](https://github.com/AndreaGStine)
 
 **Office:**
 
